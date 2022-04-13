@@ -1,6 +1,8 @@
 ## About Me
 
-#### Welcome I'm Furaime or Louan de Oliveira Carvalho a developer on learning from Brazil, and im interestested mostly in learning python, Data/Cloud engineering, machine learning and mobile applications. and this is the place where I share my learning projects, I have a background in supply chain, product development, automation and control engineering, automate and interconnect machines.
+Welcome, I'm Furaime or Louan de Oliveira Carvalho from Brazil, and I'm interested mostly in learning python, Data/Cloud engineering, machine learning and mobile applications. This is the place where I share my starter projects.
+
+I have a background in supply chain, product development, automation and control engineering.
 
 
 <a href="https://www.linkedin.com/in/louan-carvalho-95b578216" alt="linkedin" target="_blank">
